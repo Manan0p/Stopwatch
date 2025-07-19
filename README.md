@@ -1,7 +1,8 @@
-**Stopwatch Web Application**
+Stopwatch Web Application
+
 A sleek, modern, and user-friendly stopwatch web application built with HTML, Tailwind CSS, and JavaScript. This application allows users to accurately measure time intervals with start, stop, reset, and lap functionalities.
 
-**Features**
+Features
 Start/Stop: Easily start and pause the stopwatch at any time.
 
 Reset: Reset the timer back to zero.
